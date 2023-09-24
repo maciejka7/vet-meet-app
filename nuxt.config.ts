@@ -10,8 +10,8 @@ export default defineNuxtConfig({
   modules: [
     "@pinia/nuxt",
     "@nuxt/devtools",
-    // "@sidebase/nuxt-auth",
+    "@nuxt/image",
     "@nuxtjs/tailwindcss",
-
+    // "@sidebase/nuxt-auth",
   ]
 })
